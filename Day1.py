@@ -123,14 +123,14 @@
 # print(a+b)
 
 #12
-# print(int(3.24))
-# #print(int(10+3i))
+print(int(3.24))
+#print(int(10+3i))
 
-# print(int(True))
-# print(int(False))
-# #print(int("3.22"))
-# print(int("4"))
-# #print(int("Darshan"))
+print(int(True))
+print(int(False))
+#print(int("3.22"))
+print(int("4"))
+#print(int("Darshan"))
 
 #12
 
